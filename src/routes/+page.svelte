@@ -1,4 +1,4 @@
-<main class="bg-zinc-800">
+
 	<div class="hero mx-auto h-[500px]" style="background-image: url(/Ambassador-Suites.jpg);">
 		<div class="hero-overlay"></div>
 
@@ -65,4 +65,4 @@
 			</div>
 		</section>
 	</section>
-</main>
+

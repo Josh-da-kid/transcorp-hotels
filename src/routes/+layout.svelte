@@ -116,7 +116,7 @@
 	</div>
 </header>
 
-<main class="">
+<main class="bg-zinc-800">
 	{@render children()}
 </main>
 
