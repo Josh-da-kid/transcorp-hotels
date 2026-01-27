@@ -20,16 +20,20 @@
 	<div class="flex items-center gap-5 text-amber-300">
 		<img src="Logo - gold.png" alt="" class="h-8 w-9" />
 
-		<h3>METROPOLITAN</h3>
+		<a href="/"><h3>METROPOLITAN</h3></a>
 	</div>
 
 	<ul class="mx-auto hidden justify-center gap-10 text-amber-300 lg:flex">
-		<li>HOME</li>
-		<li>ROOMS & SUITES</li>
-		<li>FACILITIES</li>
-		<li>DINING</li>
-		<li>ABOUT</li>
-		<li>CONTACT</li>
+		<a href="/"><li class="transition-transform duration-300 hover:scale-105">HOME</li></a>
+		<a href="/rooms-suites"
+			><li class="transition-transform duration-300 hover:scale-105">ROOMS & SUITES</li></a
+		>
+		<a href="facilities"
+			><li class="transition-transform duration-300 hover:scale-105">FACILITIES</li></a
+		>
+		<a href="dining"><li class="transition-transform duration-300 hover:scale-105">DINING</li></a>
+		<a href="about"><li class="transition-transform duration-300 hover:scale-105">ABOUT</li></a>
+		<a href="contact"><li class="transition-transform duration-300 hover:scale-105">CONTACT</li></a>
 	</ul>
 
 	<div class="drawer drawer-end ml-auto w-auto lg:hidden">
