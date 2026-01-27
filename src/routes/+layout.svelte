@@ -23,7 +23,7 @@
 		<h3>METROPOLITAN</h3>
 	</div>
 
-	<ul class="mx-auto hidden justify-center gap-10 text-amber-300 lg:flex">
+	<ul class="mx-auto hidden justify-center gap-10 text-amber-300 lg:flex ">
 		<li>HOME</li>
 		<li>ROOMS & SUITES</li>
 		<li>FACILITIES</li>
