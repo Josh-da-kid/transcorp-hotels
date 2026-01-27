@@ -23,7 +23,7 @@
 		<h3>METROPOLITAN</h3>
 	</div>
 
-	<ul class="mx-auto hidden justify-center gap-10 text-amber-300 lg:flex ">
+	<ul class="mx-auto hidden justify-center gap-10 text-amber-300 lg:flex">
 		<li>HOME</li>
 		<li>ROOMS & SUITES</li>
 		<li>FACILITIES</li>
@@ -50,7 +50,7 @@
 		</div>
 		<div class="drawer-side">
 			<label for="my-drawer-1" aria-label="close sidebar" class="drawer-overlay"></label>
-			<ul class="menu min-h-full w-80 bg-base-200 p-4">
+			<ul class="menu min-h-full w-80 bg-base-200 p-4 text-lg">
 				<!-- Sidebar content here -->
 
 				<!-- close sidenav buton -->
