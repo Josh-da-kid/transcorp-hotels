@@ -11,7 +11,8 @@
 	}
 </script>
 
-<svelte:head><link rel="icon" href={favicon} /></svelte:head>
+<svelte:head><link rel="icon" href="Logo - gold.png" /></svelte:head>
+<title>METROPOLITAN HOTEL</title>
 
 <header class="cinzel flex h-20 items-center bg-zinc-800 px-8">
 	<div class="flex items-center gap-5 text-amber-300">
