@@ -11,10 +11,12 @@
 	}
 </script>
 
-<svelte:head><link rel="icon" href="Logo - gold.png" /></svelte:head>
-<title>METROPOLITAN HOTEL</title>
+<svelte:head
+	><link rel="icon" href="Logo - gold.png" /><title>The Metropolitan Hotel Calabar</title
+	></svelte:head
+>
 
-<header class="cinzel flex h-20 items-center bg-zinc-800 px-8">
+<header class="cinzel fixed z-20 flex h-20 w-screen items-center overflow-hidden bg-zinc-800 px-8">
 	<div class="flex items-center gap-5 text-amber-300">
 		<img src="Logo - gold.png" alt="" class="h-8 w-9" />
 
