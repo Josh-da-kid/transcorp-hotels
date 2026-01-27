@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+.cinzel {
+	font-family: 'Cinzel', serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.cinzel-bold {
+	font-family: 'Cinzel', serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
+}
+@plugin 'daisyui';
