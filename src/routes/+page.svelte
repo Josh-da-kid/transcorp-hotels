@@ -6,7 +6,7 @@
 
 <svelte:head><title>{page.title}</title></svelte:head>
 
-<div class="hero mx-auto h-[600px] lg:min-h-screen" style="background-image: url(/Poolside.jpg);">
+<div class="hero mx-auto h-[500px] lg:min-h-screen" style="background-image: url(/Poolside.jpg);">
 	<div class="hero-overlay"></div>
 
 	<div class="hero-content w-full justify-start text-left text-neutral-content">
