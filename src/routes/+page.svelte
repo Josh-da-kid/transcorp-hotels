@@ -1,4 +1,7 @@
-<div class="hero min-h-screen" style="background-image: url(/Ambassador-Suites.jpg);">
+<div
+	class="hero mx-auto h-[400px] lg:h-[500px]"
+	style="background-image: url(/Ambassador-Suites.jpg);"
+>
 	<div class="hero-overlay"></div>
 
 	<div class="hero-content w-full justify-start text-left text-neutral-content">
