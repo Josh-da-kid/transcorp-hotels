@@ -36,7 +36,7 @@
 	</p>
 
 	<section class="flex flex-col gap-8 px-4 py-8">
-		<div class="mx-auto flex max-w-sm items-center justify-between gap-15">
+		<div class="mx-auto flex max-w-sm items-center justify-between w-[350px]">
 			<div class="flex flex-col items-center justify-center">
 				<svg
 					class="text-amber-300"
@@ -52,7 +52,7 @@
 				<p class="playfair text-3xl">130+</p>
 				<p class="text-sm text-gray-400">Luxury Rooms</p>
 			</div>
-			<div class="h-11 w-[3px] bg-amber-300"></div>
+			<div class="h-8 w-[5px] bg-amber-300"></div>
 
 			<div class="flex flex-col items-center justify-center">
 				<svg
@@ -78,7 +78,7 @@
 			</div>
 		</div>
 
-		<div class="mx-auto flex max-w-sm items-center justify-between gap-15">
+		<div class="mx-auto flex max-w-sm items-center justify-between w-[350px]">
 			<div class="flex flex-col items-center justify-center">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
@@ -124,7 +124,7 @@
 				<p class="playfair text-3xl">15+</p>
 				<p class="text-sm text-gray-400">Years of Excellence</p>
 			</div>
-			<div class="h-11 w-[3px] bg-amber-300"></div>
+			<div class="h-8 w-[5px] bg-amber-300"></div>
 
 			<div class="flex flex-col items-center justify-center">
 				<svg
